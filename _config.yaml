@@ -1,0 +1,12 @@
+title: Bought Beer
+description: "A list of micro breweries that have been wholly or partially bought"
+baseurl: "/"
+url: "https://bought.beer"
+
+#markdown: kramdown
+theme: jekyll-theme-tactile
+#plugins:
+#  - jekyll-feed
+#  - jekyll-gist
+#  - jekyll-include-cache
+#  - jekyll-sitemap
