@@ -29,7 +29,7 @@ Is there a brewery missing here? Add it by filling in [this form](https://docs.g
 | Camden Brewery | IE | AB InBev | 100 | 2015 | [The Guardian](https://www.theguardian.com/business/2015/dec/21/camden-town-brewery-sold-inbev-worlds-biggest-drinks-company) |
 | Clown Shoes | IE | Mass Bay Brewing | 100 | 2017 | TBD |
 | Concrete Beach | IE | A&S Brewing (aka Boston Beer Company) | 100 | 2015 | TBD |
-| Devil's Backbone IE | | AB InBev | 100 | 2016 | [Consumer Report](https://www.consumerreports.org/consumerist/here-are-the-8-u-s-craft-brewers-bought-by-anheuser-busch-since-2011/) |
+| Devil's Backbone | IE | AB InBev | 100 | 2016 | [Consumer Report](https://www.consumerreports.org/consumerist/here-are-the-8-u-s-craft-brewers-bought-by-anheuser-busch-since-2011/) |
 | Dogfish Head | IE | Boston Beer Company | 100 | 2019 | TBD |
 | Elysian | IE | AB InBev | 100 | 2015 | [Consumer Report](https://www.consumerreports.org/consumerist/here-are-the-8-u-s-craft-brewers-bought-by-anheuser-busch-since-2011/) |
 | Firestone Walker | IE | Duvel Moortgat | 100 | 2015 | TBD |
@@ -61,10 +61,10 @@ Is there a brewery missing here? Add it by filling in [this form](https://docs.g
 | Magic Hat | IE | North American Breweries | 100 | 2010 | TBD |
 | Magic Rock | IE | Lion Global Markets | 100 | 2019 | [Morning Advertiser](https://www.morningadvertiser.co.uk/Article/2019/03/29/Magic-Rock-bought-by-Australian-drinks-giant) |
 | Magnolia Brewing | IE | Kirin Holding Corp | 100 | 2019 | TBD |
-| Meantime | Asahi IE | | 100 | 2016 | TBD |
+| Meantime | IE | Asahi | 100 | 2016 | TBD |
 | New Belgium | IE | Kirin Holding Corp | 100 | 2020 | TBD |
-| Newcastle Brown Ale IE | | Heineken | 100 | 2008 | TBD |
-| Ninkasi | Legacy IE | Breweries | >50 | 2019 | TBD |
+| Newcastle Brown Ale | IE | Heineken | 100 | 2008 | TBD |
+| Ninkasi | IE | Legacy Breweries | >50 | 2019 | TBD |
 | Northern Monk | IE | Active Partners | < 25 | 2019 | [Insider Media](https://www.insidermedia.com/news/yorkshire/investment-firm-takes-stake-in-leeds-brewery) |
 | Omission | IE | AB InBev | 100 | 2019 | [The Drinks Business](https://www.thedrinksbusiness.com/2020/10/ab-inbev-finalises-craft-brew-alliance-purchase/) |
 | Ommegang | IE |Duvel Moortgat | 100 | 2003 | TBD |
