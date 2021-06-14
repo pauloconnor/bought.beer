@@ -4,7 +4,7 @@ layout: default
 
 Is there a brewery missing here? Add it by filling in [this form](https://docs.google.com/forms/d/e/1FAIpQLSdjbk7jNQzjq_ZWDwIaMs7RRtQeMOFKB9pHFGfUhrnnLu22gQ/viewform)
 
-| Brewery | Owner | % Owned | Date | Link |
+| Brewery | Country | Owner | % Owned | Date | Link |
 |-|-|-|-|-|-|
 | 10 Barrel | IE | AB InBev | 100 | 2014 | [Consumer Report](https://www.consumerreports.org/consumerist/here-are-the-8-u-s-craft-brewers-bought-by-anheuser-busch-since-2011/) |
 | 8 Degrees | IE | Pernod Ricard | 100 | 2018 | [Irish Times](https://www.irishtimes.com/business/agribusiness-and-food/irish-distillers-acquires-cork-based-craft-brewer-eight-degrees-1.3491726) |
