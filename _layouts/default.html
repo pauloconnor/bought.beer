@@ -50,9 +50,11 @@
         $(document).ready(function() {
 
             $('table').DataTable({
+                hover: true,
                 paging: false,
+                searching: false,
                 stateSave: true,
-                searching: false
+                stripe: true
             });
         });
     </script>
