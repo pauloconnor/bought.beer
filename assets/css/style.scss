@@ -35,5 +35,6 @@ $countries: _abkhazia, _basque-country, _british-antarctic-territory, _commonwea
   .flag-#{to-lower-case($country)} {
     background-image: url(../images/flags-iso/flat/32/#{$country}.png);
     background-repeat: no-repeat;
+    background-position : 0px 3px;
   }
 }
