@@ -54,8 +54,14 @@
                 paging: false,
                 searching: false,
                 stateSave: true,
-                stripe: true
+                stripe: true,
+
+                "createdRow": function ( row, data, index ) {
+                    $('td', row).eq(1).addClass('.flag-' + toLowerCase(data[1]));
+                }
             });
+
+            
         });
     </script>
 
