@@ -12,7 +12,7 @@ Is there a brewery missing here? Add it by filling in [this form](https://docs.g
 | Alpine Beer | US | Green Flash Brewing | 100 | 2015 | TBD |
 | Anchor Brewing | US | Sapporo Holdings Ltd | 100 | 2017 | TBD |
 | Appalachian Mountain | US | AB InBev | 100 | 2019 | [Post and Courier](https://www.postandcourier.com/news/this-new-to-sc-craft-brewer-was-just-bought-by-the-worlds-biggest-beer-company/article_acc6f1f0-055e-11ea-9367-3b49c4da4ce1.html) |
-| Aspen Brewing | US | Legacy Breweries | 100 | 2019 | TBD |
+| Aspen Brewing | US | Legacy Breweries | 100 | 2019 | [Brewpublic](https://brewpublic.com/beer-news/legacy-breweries-partners-with-laurelwood-brewing-aspen-brewing/) |
 | Atwater | US | Molson Coors | 100 | 2020 | TBD |
 | Avery Brewing | US | Mahou-San Miguel | 30 | 2017 | TBD |
 | Ballast Point | US | Kings & Convicts | 100 | 2020 | TBD |
@@ -51,13 +51,13 @@ Is there a brewery missing here? Add it by filling in [this form](https://docs.g
 | Grolsch | NL | Asahi | 100 | 2016 | [BBC News](https://www.bbc.com/news/business-36079368) |
 | Hamm's | US | MillerCoors | 100 | 1999 | TBD |
 | Honey Brown (Dundee) | US | North American Breweries | 100 | 2010 | TBD |
-| Hop Valley | US | MillerCoors | >50 | 2016 | TBD |
+| Hop Valley | US | MillerCoors | >50 | 2016 | Brewbound(https://www.brewbound.com/news/millercoors-strikes-acquires-majority-stake-hop-valley-brewing/) |
 | Karbach | US | AB InBev | 100 | 2016 | [Houston Chronicle](https://www.chron.com/business/retail/article/Karbach-to-be-acquired-by-Anheuser-BuschInBev-10590579.php) |
 | Killian's Irish  Red | US | MillerCoors | 100 | 2012 | [Biz Journals](https://www.bizjournals.com/milwaukee/news/2012/02/17/millercoors-makes-changes-to-killians.html) |
 | Kona | US | AB InBev | 100 | 2019 | [The Drinks Business](https://www.thedrinksbusiness.com/2020/10/ab-inbev-finalises-craft-brew-alliance-purchase/) |
-| Lagunitas | US | Heineken  | 100 | 2017 | TBD |
-| Laurelwood Brewing | US | Legacy Breweries | 100 | 2019 | TBD |
-| Leinenkugel's | US | MillerCoors | 100 | 1988 | TBD |
+| Lagunitas | US | Heineken  | 100 | 2017 | [Lagunitas](https://www.latimes.com/business/la-fi-heineken-lagunitas-20170504-story.html) |
+| Laurelwood Brewing | US | Legacy Breweries | 100 | 2019 | [Brewpublic](https://brewpublic.com/beer-news/legacy-breweries-partners-with-laurelwood-brewing-aspen-brewing/) |
+| Leinenkugel's | US | MillerCoors | 100 | 1988 | [Biz Journals](https://www.bizjournals.com/milwaukee/blog/2013/09/miller-acquisition-helped.html) |
 | Magic Hat | US | North American Breweries | 100 | 2010 | [Drug Store News](https://drugstorenews.com/center-store/magic-hat-brewing-co-sold-north-american-breweries) |
 | Magic Rock | GB | Lion Global Markets | 100 | 2019 | [Morning Advertiser](https://www.morningadvertiser.co.uk/Article/2019/03/29/Magic-Rock-bought-by-Australian-drinks-giant) |
 | Magnolia Brewing | US | Kirin Holding Corp | 100 | 2019 | [SF Gate](https://www.sfgate.com/bars/article/Magnolia-Brewing-New-Belgium-acquired-by-kirin-14846938.php) |
