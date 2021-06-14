@@ -307,11 +307,12 @@
             $('table').DataTable({
                 hover: true,
                 paging: false,
-                searching: false,
+                searching: true,
                 stateSave: true,
                 stripe: true,
 
                 "createdRow": function ( row, data, index ) {
+                    $('td', row).eq(1).addClass('td-padded');
                     $('td', row).eq(1).addClass('flag-' + data[1].toLowerCase());
                     $('td', row).eq(1).html(getCountry(data[1]));
                 }

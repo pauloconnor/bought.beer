@@ -8,6 +8,14 @@
   margin: 0 auto;
 }
 
+td {
+  text-align: left;
+}
+
+td-padded {
+  margin-left: 32px;
+}
+
 $countries: _abkhazia, _basque-country, _british-antarctic-territory, _commonwealth, 
   _gosquared, _kosovo, _mars, _nagorno-karabakh, _nato, _northern-cyprus, 
   _olympics, _red-cross, _somaliland, _south-ossetia, _united-nations, 
