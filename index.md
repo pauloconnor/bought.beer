@@ -22,7 +22,7 @@ Is there a brewery missing here? Add it by filling in [this form](https://docs.g
 | Blue Point | US | AB InBev | 100 | 2014 | [Consumer Report](https://www.consumerreports.org/consumerist/here-are-the-8-u-s-craft-brewers-bought-by-anheuser-busch-since-2011/) |
 | Boulevard | US | Duvel Moortgat | 100 | 2014 | TBD |
 | Breckenridge | US | AB InBev | 100 | 2016 | [Consumer Report](https://www.consumerreports.org/consumerist/here-are-the-8-u-s-craft-brewers-bought-by-anheuser-busch-since-2011/) |
-| BrewDog | SC | TSG Consumer Partners | 22 | 2017 | [The Guardian](https://www.theguardian.com/business/2017/apr/09/punk-beermaker-brewdog-sells-22-of-firm-to-private-equity-house) |
+| BrewDog | SCO | TSG Consumer Partners | 22 | 2017 | [The Guardian](https://www.theguardian.com/business/2017/apr/09/punk-beermaker-brewdog-sells-22-of-firm-to-private-equity-house) |
 | BridgePort | US | The Gambrinus Company | 100 | 1995 | TBD |
 | Brixton | GB | Heineken | 100 | 2021 | [Morning Advertiser](https://www.morningadvertiser.co.uk/Article/2021/02/02/Heineken-acquires-Brixton-Brewery) |
 | Brooklyn Brewing | US | Kirin Holding Corp | 24.5 | 2015 | TBD |
