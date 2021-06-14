@@ -41,7 +41,7 @@ Is there a brewery missing here? Add it by filling in [this form](https://docs.g
 | Four Pure | IE | Lion Global Markets | 100 | 2018 | [Morning Advertiser](https://www.morningadvertiser.co.uk/Article/2018/07/09/Fourpure-acquired-by-Australian-company-Lion) |
 | Franciscan Well | IE | Molson Coors | 100 | 2013 | TBD |
 | Full Sail | IE | Encore Consumer Capital | 100 | 2015 | TBD |
-| Fuller's London  Pride | UK | Asahi | 100 | 2019 | TBD |
+| Fuller's London  Pride | England | Asahi | 100 | 2019 | TBD |
 | Funkwerks | IE | Brooklyn  Brewery (Kirin) | <50 | 2017 | TBD |
 | Funky Buddha | IE | Constellation Brands | 100 | 2017 | TBD |
 | Genessee |  IE | North American Breweries | 100 | 2009 | TBD |
