@@ -7,7 +7,7 @@ Is there a brewery missing here? Add it by filling in [this form](https://docs.g
 | Brewery | Owner | % Owned | Date | Link |
 |-|-|-|-|-|
 | 10 Barrel | AB InBev | 100 | 2014 | [Consumer Report](https://www.consumerreports.org/consumerist/here-are-the-8-u-s-craft-brewers-bought-by-anheuser-busch-since-2011/) |
-| 8 Degrees :ireland: | Pernod Ricard | 100 | 2018 | [Irish Times](https://www.irishtimes.com/business/agribusiness-and-food/irish-distillers-acquires-cork-based-craft-brewer-eight-degrees-1.3491726) |
+| 8 Degrees :flag-ie: | Pernod Ricard | 100 | 2018 | [Irish Times](https://www.irishtimes.com/business/agribusiness-and-food/irish-distillers-acquires-cork-based-craft-brewer-eight-degrees-1.3491726) |
 | AC Golden | MillerCoors | 100 | 2008 | TBD |
 | Alpine Beer | Green Flash Brewing | 100 | 2015 | TBD |
 | Anchor Brewing | Sapporo Holdings Ltd | 100 | 2017 | TBD |
