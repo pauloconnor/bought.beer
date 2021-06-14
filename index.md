@@ -29,7 +29,6 @@ Is there a brewery missing here? Add it by filling in [this form](https://docs.g
 | Camden Brewery | AB InBev | 100 | 2015 | [The Guardian](https://www.theguardian.com/business/2015/dec/21/camden-town-brewery-sold-inbev-worlds-biggest-drinks-company) |
 | Clown Shoes | Mass Bay Brewing | 100 | 2017 | TBD |
 | Concrete Beach | A&S Brewing (aka Boston Beer Company) | 100 | 2015 | TBD |
-| Deep Ellum | CANarchy / Fireman Capital Partners | 100 | 2018 | TBD |
 | Devil's Backbone | AB InBev | 100 | 2016 | [Consumer Report](https://www.consumerreports.org/consumerist/here-are-the-8-u-s-craft-brewers-bought-by-anheuser-busch-since-2011/) |
 | Dogfish Head | Boston Beer Company | 100 | 2019 | TBD |
 | Elysian | AB InBev | 100 | 2015 | [Consumer Report](https://www.consumerreports.org/consumerist/here-are-the-8-u-s-craft-brewers-bought-by-anheuser-busch-since-2011/) |
@@ -81,7 +80,6 @@ Is there a brewery missing here? Add it by filling in [this form](https://docs.g
 | Sharp's | Molson Coors | 100 | 2011 | TBD |
 | Shock Top | AB InBev | 100 | 2006 | TBD |
 | Short's Brewing | Lagunitas US Holdings LLC (Heineken) | 19.9 | 2017 | TBD |
-| Southern Tier | Artisanal Brewing Ventures | 100 | 2016 | [Craft Brewing Business](https://www.craftbrewingbusiness.com/featured/artisanal-brewing-ventures-home-to-sixpoint-southern-tier-victory-adds-cider-seltzer-and-mixed-cocktails-to-its-portfolio-with-new-partner-bold-rock/) |
 | Spoetzl (Shiner) | The Gambrinus Company | 100 | 1989 | TBD |
 | Square Mill Cider | AB InBev | 100 | 2019 | [The Drinks Business](https://www.thedrinksbusiness.com/2020/10/ab-inbev-finalises-craft-brew-alliance-purchase/) |
 | Staropramen | Molson Coors | 100 | 2012 | TBD |
@@ -90,11 +88,9 @@ Is there a brewery missing here? Add it by filling in [this form](https://docs.g
 | Telegraph | Epic Brewing | 100 | 2017 | TBD |
 | Terrapin | MillerCoors | >50 | 2016 | TBD |
 | Third Shift | MillerCoors | 100 | 2013 | TBD |
-| Three Weavers | CANarchy / Fireman Capital Partners | 100 | 2018 | TBD |
 | Uinta | The Riverside Company | <50 | 2014 | TBD |
 | Unibroue | Sapporo Holdings Ltd | 100 | 2006 | TBD |
 | Veza Sur | AB InBev | 100 | 2017 | TBD |
-| Victory | Artisanal Brewing Ventures | 100 | 2016 | [Craft Brewing Business](https://www.craftbrewingbusiness.com/featured/artisanal-brewing-ventures-home-to-sixpoint-southern-tier-victory-adds-cider-seltzer-and-mixed-cocktails-to-its-portfolio-with-new-partner-bold-rock/) |
 | Wicked Weed | AB InBev | 100 | 2017 | [Food Dive](https://www.fooddive.com/news/ab-inbev-buys-remaining-stake-in-craft-brew-alliance-for-321m/567097/) |
 | Widmer Brother | AB InBev | 100 | 2019 | [The Drinks Business](https://www.thedrinksbusiness.com/2020/10/ab-inbev-finalises-craft-brew-alliance-purchase/) |
 | Wynwood | AB InBev | 100 | 2019 | [The Drinks Business](https://www.thedrinksbusiness.com/2020/10/ab-inbev-finalises-craft-brew-alliance-purchase/) |
