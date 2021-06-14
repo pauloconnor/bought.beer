@@ -297,6 +297,11 @@
             'ZM' : 'Zambia',
             'ZW' : 'Zimbabwe'
         };
+
+        function getCountry(iso) {
+            return isoCountries[iso];
+        }
+
         $(document).ready(function() {
 
             $('table').DataTable({
@@ -308,7 +313,7 @@
 
                 "createdRow": function ( row, data, index ) {
                     $('td', row).eq(1).addClass('flag-' + data[1].toLowerCase());
-                    $('td', row).text().replace(data[1], isoCountries[data[1]]);
+                    $('td', row).text().replace(data[1], getCountry(data[1]));
                 }
             });
 
