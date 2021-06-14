@@ -79,7 +79,7 @@ Is there a brewery missing here? Add it by filling in [this form](https://docs.g
 | Saint Archer | US | MillerCoors | >50 | 2015 | TBD |
 | Sharp's | US | Molson Coors | 100 | 2011 | TBD |
 | Shock Top | US | AB InBev | 100 | 2006 | TBD |
-| Short's Brewing | US | Lagunitas US Holdings LLC (Heineken) | 19.9 | 2017 | TBD |
+| Short's Brewing | US | Lagunitas US Holdings LLC | 19.9 | 2017 | TBD |
 | Spoetzl (Shiner) | US | The Gambrinus Company | 100 | 1989 | TBD |
 | Square Mill Cider | US | AB InBev | 100 | 2019 | [The Drinks Business](https://www.thedrinksbusiness.com/2020/10/ab-inbev-finalises-craft-brew-alliance-purchase/) |
 | Staropramen | CZ | Molson Coors | 100 | 2012 | TBD |
