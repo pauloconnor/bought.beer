@@ -51,7 +51,7 @@ Is there a brewery missing here? Add it by filling in [this form](https://docs.g
 | Grolsch | NL | Asahi | 100 | 2016 | [BBC News](https://www.bbc.com/news/business-36079368) |
 | Hamm's | US | MillerCoors | 100 | 1999 | TBD |
 | Honey Brown (Dundee) | US | North American Breweries | 100 | 2010 | TBD |
-| Hop Valley | US | MillerCoors | >50 | 2016 | Brewbound(https://www.brewbound.com/news/millercoors-strikes-acquires-majority-stake-hop-valley-brewing/) |
+| Hop Valley | US | MillerCoors | >50 | 2016 | [Brewbound](https://www.brewbound.com/news/millercoors-strikes-acquires-majority-stake-hop-valley-brewing/) |
 | Karbach | US | AB InBev | 100 | 2016 | [Houston Chronicle](https://www.chron.com/business/retail/article/Karbach-to-be-acquired-by-Anheuser-BuschInBev-10590579.php) |
 | Killian's Irish  Red | US | MillerCoors | 100 | 2012 | [Biz Journals](https://www.bizjournals.com/milwaukee/news/2012/02/17/millercoors-makes-changes-to-killians.html) |
 | Kona | US | AB InBev | 100 | 2019 | [The Drinks Business](https://www.thedrinksbusiness.com/2020/10/ab-inbev-finalises-craft-brew-alliance-purchase/) |
