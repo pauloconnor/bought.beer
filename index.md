@@ -94,3 +94,4 @@ Is there a brewery missing here? Add it by filling in [this form](https://docs.g
 | Wicked Weed | AB InBev | 100 | 2017 | [Food Dive](https://www.fooddive.com/news/ab-inbev-buys-remaining-stake-in-craft-brew-alliance-for-321m/567097/) |
 | Widmer Brother | AB InBev | 100 | 2019 | [The Drinks Business](https://www.thedrinksbusiness.com/2020/10/ab-inbev-finalises-craft-brew-alliance-purchase/) |
 | Wynwood | AB InBev | 100 | 2019 | [The Drinks Business](https://www.thedrinksbusiness.com/2020/10/ab-inbev-finalises-craft-brew-alliance-purchase/) |
+{: .stripe }
