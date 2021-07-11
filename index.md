@@ -88,6 +88,7 @@ Is there a brewery missing here? Add it by filling in [this form](https://docs.g
 | Terrapin | US | MillerCoors |  >50 | 2016 | [Brew Bound](https://www.brewbound.com/news/millercoors-acquires-majority-stake-terrapin-beer-company) |
 | Third Shift | US | MillerCoors | 100 | 2013 | [Brew Bound](https://www.brewbound.com/breweries/Third_Shift_Band_of_Brewers) |
 | Uinta | US | The Riverside Company | <50 | 2014 | [Riverside Company](https://www.riversidecompany.com/currents/riverside-invests-in-uinta-brewing-company/) |
+| United Breweries | IN | Heineken | 100 | 2021 | [Hospitality Ireland](https://www.hospitalityireland.com/drinks/heineken-takes-control-of-united-breweries-137898) |
 | Unibroue | CA | Sapporo Holdings Ltd | 100 | 2006 | [CBC via Web Archive](https://web.archive.org/web/20081202044759/http://www.cbc.ca/money/story/2006/08/11/sapporo-sleeman.html) |
 | Veza Sur | US | AB InBev | 100 | 2017 | [Brew Bound](https://www.brewbound.com/news/anheuser-busch-faces-lawsuit-over-veza-sur-craft-positioning/) |
 | Wicked Weed | US | AB InBev | 100 | 2017 | [Food Dive](https://www.fooddive.com/news/ab-inbev-buys-remaining-stake-in-craft-brew-alliance-for-321m/567097/) |
