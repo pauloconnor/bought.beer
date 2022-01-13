@@ -29,6 +29,7 @@ Is there a brewery missing here? Add it by filling in [this form](https://docs.g
 | Brú Brewing | IE | Galway Bay Brewing | 100 | 2021 | [Hospitality Ireland](https://www.hospitalityireland.com/drinks/brewery-and-pub-owner-the-bru-group-to-merge-with-galway-bay-brewery-150481) |
 | Camden Brewery | GB | AB InBev | 100 | 2015 | [The Guardian](https://www.theguardian.com/business/2015/dec/21/camden-town-brewery-sold-inbev-worlds-biggest-drinks-company) |
 | Carrig Brewing Co | IE | Brú Brewery | 100 | 2020 | [Bru Brewery Blog](https://www.brubrewery.ie/new-bru-journey-begins/) |
+| Cigar City | US | Oskar Blues | 100 | 2016 | [Denver Post](https://www.denverpost.com/2016/03/14/oskar-blues-buys-cigar-city-brewing-in-deal-valued-at-60-million/) |
 | Clown Shoes | US | Mass Bay Brewing | 100 | 2017 | TBD |
 | Concrete Beach | US | A&S Brewing | 100 | 2015 | TBD |
 | Devil's Backbone | US | AB InBev | 100 | 2016 | [Consumer Report](https://www.consumerreports.org/consumerist/here-are-the-8-u-s-craft-brewers-bought-by-anheuser-busch-since-2011/) |
