@@ -29,9 +29,10 @@ Is there a brewery missing here? Add it by filling in [this form](https://docs.g
 | Brú Brewing | IE | Galway Bay Brewing | 100 | 2021 | [Hospitality Ireland](https://www.hospitalityireland.com/drinks/brewery-and-pub-owner-the-bru-group-to-merge-with-galway-bay-brewery-150481) |
 | Camden Brewery | GB | AB InBev | 100 | 2015 | [The Guardian](https://www.theguardian.com/business/2015/dec/21/camden-town-brewery-sold-inbev-worlds-biggest-drinks-company) |
 | Carrig Brewing Co | IE | Brú Brewery | 100 | 2020 | [Bru Brewery Blog](https://www.brubrewery.ie/new-bru-journey-begins/) |
-| Cigar City | US | Oskar Blues | 100 | 2016 | [Denver Post](https://www.denverpost.com/2016/03/14/oskar-blues-buys-cigar-city-brewing-in-deal-valued-at-60-million/) |
+| Cigar City | US | Monster Beverage | 100 | 2021 | [Reuters](https://www.reuters.com/business/monster-beverage-enter-alcohol-market-with-330-mln-canarchy-buy-2022-01-13/) |
 | Clown Shoes | US | Mass Bay Brewing | 100 | 2017 | TBD |
 | Concrete Beach | US | A&S Brewing | 100 | 2015 | TBD |
+| Deep Ellum | US | Monster Beverage | 100 | 2021 | [Reuters](https://www.reuters.com/business/monster-beverage-enter-alcohol-market-with-330-mln-canarchy-buy-2022-01-13/) |
 | Devil's Backbone | US | AB InBev | 100 | 2016 | [Consumer Report](https://www.consumerreports.org/consumerist/here-are-the-8-u-s-craft-brewers-bought-by-anheuser-busch-since-2011/) |
 | Dogfish Head | US | Boston Beer Company | 100 | 2019 | TBD |
 | Elysian | US | AB InBev | 100 | 2015 | [Consumer Report](https://www.consumerreports.org/consumerist/here-are-the-8-u-s-craft-brewers-bought-by-anheuser-busch-since-2011/) |
@@ -70,7 +71,9 @@ Is there a brewery missing here? Add it by filling in [this form](https://docs.g
 | Northern Monk | GB | Active Partners | < 25 | 2019 | [Insider Media](https://www.insidermedia.com/news/yorkshire/investment-firm-takes-stake-in-leeds-brewery) |
 | Omission | US | AB InBev | 100 | 2019 | [The Drinks Business](https://www.thedrinksbusiness.com/2020/10/ab-inbev-finalises-craft-brew-alliance-purchase/) |
 | Ommegang | US | Duvel Moortgat | 100 | 2003 | [Biz Journals](https://www.bizjournals.com/albany/stories/2003/02/03/daily4.html) |
+| Oskar Blues | US | Monster Beverage | 100 | 2021 | [Reuters](https://www.reuters.com/business/monster-beverage-enter-alcohol-market-with-330-mln-canarchy-buy-2022-01-13/) |
 | Pabst | US | TSG Consumer Partners | 100 | 2014 | [TSG Consumer](https://www.tsgconsumer.com/news/pabst-brewing-company-completes-sale-to-blue-ribbon-holdings) |
+| Perrin Brewing | US | Monster Beverage | 100 | 2021 | [Reuters](https://www.reuters.com/business/monster-beverage-enter-alcohol-market-with-330-mln-canarchy-buy-2022-01-13/) |
 | Peroni | IT | Asahi | 100 | 2016 | [BBC News](https://www.bbc.com/news/business-36079368) |
 | Pilsner Urquell | CZ | Asahi | 100 | 2016 | [BBC News](https://www.bbc.com/news/science-environment-38299071) |
 | Platform Beer Co. | US | AB InBev | 100 | 2019 | [Brew Bound](https://www.brewbound.com/news/anheuser-busch-inbev-acquires-platform-beer-co) |
@@ -84,17 +87,21 @@ Is there a brewery missing here? Add it by filling in [this form](https://docs.g
 | Short's Brewing | US | Lagunitas US Holdings LLC | 19.9 | 2017 | [Short's Brewing](https://www.shortsbrewing.com/short-s-brewing-co-announces-partnership-lagunitas-brewing-co/) |
 | Spoetzl (Shiner) | US | The Gambrinus Company | 100 | 1989 | [Brew Bound](https://www.brewbound.com/news/gambrinus-companys-spoetzl-brewery-announces-first-ever-collaboration/) |
 | Square Mill Cider | US | AB InBev | 100 | 2019 | [The Drinks Business](https://www.thedrinksbusiness.com/2020/10/ab-inbev-finalises-craft-brew-alliance-purchase/) |
+| Squatters Craft Beers | US | Monster Beverage | 100 | 2021 | [Reuters](https://www.reuters.com/business/monster-beverage-enter-alcohol-market-with-330-mln-canarchy-buy-2022-01-13/) |
 | Staropramen | CZ | Molson Coors | 100 | 2012 | [Staropramen](https://pivovary-staropramen.cz/en/about-us/company/) |
 | Sufferfest | US | Sierra  Nevada | 100 | 2019 | [Brew Bound](https://www.brewbound.com/news/sierra-nevada-makes-first-ever-acquisition-buys-fast-growing-sufferfest-beer/) |
 | Sweetwater | US | Aphria Inc | 100 | 2020 | [WSB TV](https://www.wsbtv.com/news/local/atlanta-based-sweetwater-brewing-sold-canadian-cannabis-company/CCYSWM336BE2RF522U25IJ6VKI/) |
 | Telegraph | US | Epic Brewing | 100 | 2017 | [Brew Bound](https://www.brewbound.com/news/epic-brewing-buys-californias-telegraph-brewing/) |
 | Terrapin | US | MillerCoors |  >50 | 2016 | [Brew Bound](https://www.brewbound.com/news/millercoors-acquires-majority-stake-terrapin-beer-company) |
 | Third Shift | US | MillerCoors | 100 | 2013 | [Brew Bound](https://www.brewbound.com/breweries/Third_Shift_Band_of_Brewers) |
+| Three Weavers | US | Monster Beverage | 100 | 2021 | [Reuters](https://www.reuters.com/business/monster-beverage-enter-alcohol-market-with-330-mln-canarchy-buy-2022-01-13/) |
 | Uinta | US | The Riverside Company | <50 | 2014 | [Riverside Company](https://www.riversidecompany.com/currents/riverside-invests-in-uinta-brewing-company/) |
 | United Breweries | IN | Heineken | 100 | 2021 | [Hospitality Ireland](https://www.hospitalityireland.com/drinks/heineken-takes-control-of-united-breweries-137898) |
 | Unibroue | CA | Sapporo Holdings Ltd | 100 | 2006 | [CBC via Web Archive](https://web.archive.org/web/20081202044759/http://www.cbc.ca/money/story/2006/08/11/sapporo-sleeman.html) |
 | Veza Sur | US | AB InBev | 100 | 2017 | [Brew Bound](https://www.brewbound.com/news/anheuser-busch-faces-lawsuit-over-veza-sur-craft-positioning/) |
+| Wasatch Brewery | US | Monster Beverage | 100 | 2021 | [Reuters](https://www.reuters.com/business/monster-beverage-enter-alcohol-market-with-330-mln-canarchy-buy-2022-01-13/) |
 | Wicked Weed | US | AB InBev | 100 | 2017 | [Food Dive](https://www.fooddive.com/news/ab-inbev-buys-remaining-stake-in-craft-brew-alliance-for-321m/567097/) |
+| Wild Basin | US | Monster Beverage | 100 | 2021 | [Reuters](https://www.reuters.com/business/monster-beverage-enter-alcohol-market-with-330-mln-canarchy-buy-2022-01-13/) |
 | Widmer Brother | US | AB InBev | 100 | 2019 | [The Drinks Business](https://www.thedrinksbusiness.com/2020/10/ab-inbev-finalises-craft-brew-alliance-purchase/) |
 | Wynwood | US | AB InBev | 100 | 2019 | [The Drinks Business](https://www.thedrinksbusiness.com/2020/10/ab-inbev-finalises-craft-brew-alliance-purchase/) |
 {: .stripe }
