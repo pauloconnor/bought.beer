@@ -89,6 +89,7 @@ Is there a brewery missing here? Add it by filling in [this form](https://docs.g
 | Square Mill Cider | US | AB InBev | 100 | 2019 | [The Drinks Business](https://www.thedrinksbusiness.com/2020/10/ab-inbev-finalises-craft-brew-alliance-purchase/) |
 | Squatters Craft Beers | US | Monster Beverage | 100 | 2021 | [Reuters](https://www.reuters.com/business/monster-beverage-enter-alcohol-market-with-330-mln-canarchy-buy-2022-01-13/) |
 | Staropramen | CZ | Molson Coors | 100 | 2012 | [Staropramen](https://pivovary-staropramen.cz/en/about-us/company/) |
+| Stone | US | Sapporro | 100 | 2022 | [BusinessWire](https://www.businesswire.com/news/home/20220623006037/en/Sapporo-U.S.A.-to-Acquire-Stone-Brewing) |
 | Sufferfest | US | Sierra  Nevada | 100 | 2019 | [Brew Bound](https://www.brewbound.com/news/sierra-nevada-makes-first-ever-acquisition-buys-fast-growing-sufferfest-beer/) |
 | Sweetwater | US | Aphria Inc | 100 | 2020 | [WSB TV](https://www.wsbtv.com/news/local/atlanta-based-sweetwater-brewing-sold-canadian-cannabis-company/CCYSWM336BE2RF522U25IJ6VKI/) |
 | Telegraph | US | Epic Brewing | 100 | 2017 | [Brew Bound](https://www.brewbound.com/news/epic-brewing-buys-californias-telegraph-brewing/) |
