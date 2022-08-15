@@ -48,6 +48,7 @@ Is there a brewery missing here? Add it by filling in [this form](https://docs.g
 | Fuller's London  Pride | GB | Asahi | 100 | 2019 | TBD |
 | Funkwerks | US | Brooklyn  Brewery (Kirin) | <50 | 2017 | TBD |
 | Funky Buddha | US | Constellation Brands | 100 | 2017 | TBD |
+| Galway Hooker | IE | Connachy Hospitality Group | 100 | 2022 | [Business Post](https://www.businesspost.ie/news/galway-hooker-brewery-sold-to-connacht-hospitality-group/) |
 | Genessee |  US | North American Breweries | 100 | 2009 | TBD |
 | Golden Road | US | AB InBev | 100 | 2015 | [Consumer Report](https://www.consumerreports.org/consumerist/here-are-the-8-u-s-craft-brewers-bought-by-anheuser-busch-since-2011/) |
 | Goose Island Brewery |  US |AB InBev | 100 | 2011 | [Chicago Business](https://www.chicagobusiness.com/article/20110328/NEWS07/110329890/chicago-craft-beer-brewer-goose-island-sells-to-anheuser-busch) |
