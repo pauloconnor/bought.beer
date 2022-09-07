@@ -17,7 +17,7 @@ Is there a brewery missing here? Add it by filling in [this form](https://docs.g
 | Avery Brewing | US | Mahou-San Miguel | 30 | 2017 | TBD |
 | Ballast Point | US | Kings & Convicts | 100 | 2020 | TBD |
 | Batch 19 | US | MillerCoors | 100 | 2011 | TBD |
-| Beavertown | GB | Heineken  | 40 | 2018 | [The Drinks Business](https://www.thedrinksbusiness.com/2018/06/beavertown-confirms-40-million-stake-sale-to-heineken/) |
+| Beavertown | GB | Heineken  | 100 | 2022 | [The Drinks Business]([https://www.thedrinksbusiness.com/2018/06/beavertown-confirms-40-million-stake-sale-to-heineken/](https://www.cityam.com/heineken-takes-full-ownership-of-beavertown-brewery/)) |
 | Blue Moon | US | MillerCoors | 100 | 1995 | TBD |
 | Blue Point | US | AB InBev | 100 | 2014 | [Consumer Report](https://www.consumerreports.org/consumerist/here-are-the-8-u-s-craft-brewers-bought-by-anheuser-busch-since-2011/) |
 | Boulevard | US | Duvel Moortgat | 100 | 2014 | TBD |
